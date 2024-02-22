@@ -7,5 +7,3 @@ And User enter email as "admin@yourstore.com" and password as "admin"
 And User click on login button
 Then Page Title should be displayed "Dashboard / nopCommerce administration"
 When User click on logout button
-
-#kjndjen
